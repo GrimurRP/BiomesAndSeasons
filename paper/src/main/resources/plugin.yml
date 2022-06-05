@@ -1,0 +1,10 @@
+name: ${name}
+main: com.aleksey.bs.BiomesAndSeasons
+version: ${version}
+authors: [Aleksey-Terzi]
+description: 'Synchronization between RealisticBiomes and RealisticSeasons'
+api-version: 1.18
+depend: [RealisticBiomes,RealisticSeasons]
+commands:
+    boat:
+        description: Opens boat inventory.

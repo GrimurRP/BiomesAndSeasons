@@ -1,0 +1,10 @@
+# Config files should be placed in the RealisticBiomes' plugin folder, i.e. in \plugins\RealisticBiomes
+Seasons:
+  Winter:
+    configFile: config_winter.yml
+  Spring:
+    configFile: config_spring.yml
+  Summer:
+    configFile: config_summer.yml
+  Fall:
+    configFile: config_fall.yml
