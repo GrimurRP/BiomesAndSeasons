@@ -2,9 +2,7 @@
 
 Synchronization between RealisticBiomes and RealisticSeasons.
 
-The plugin depends on the RealisticBiomes version with the reload config function (https://github.com/CivUnion/RealisticBiomes) and RealisticSeasons plugin.
-Both plugins needs to be copied to **BiomesAndSeasons\libs** folder:
-- RealisticBiomes-paper-3.0.0-SNAPSHOT.jar
+The plugin depends on the RealisticSeasons plugin, it needs to be copied to **BiomesAndSeasons\libs** folder:
 - RealisticSeasons-7.44.jar
 
 #### Copyright and  License:
