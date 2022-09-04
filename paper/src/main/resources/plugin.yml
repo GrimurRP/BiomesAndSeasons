@@ -1,10 +1,7 @@
-name: ${name}
+name: ${pluginName}
 main: com.aleksey.bs.BiomesAndSeasons
 version: ${version}
 authors: [Aleksey-Terzi]
-description: 'Synchronization between RealisticBiomes and RealisticSeasons'
-api-version: 1.18
-depend: [RealisticBiomes,RealisticSeasons]
-commands:
-    boat:
-        description: Opens boat inventory.
+description: ${description}
+api-version: ${api_version}
+depend: [RealisticBiomes, RealisticSeasons]
