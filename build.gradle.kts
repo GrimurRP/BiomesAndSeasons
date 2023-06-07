@@ -38,7 +38,7 @@ subprojects {
 
 	repositories {
 		mavenCentral()
-		maven("https://nexus.civunion.com/repository/maven-public/")
+		maven("https://repo.civmc.net/repository/maven-public/")
 
 		flatDir {
 			dirs("../libs")
